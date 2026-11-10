@@ -21,7 +21,7 @@ Estou construindo minha base em desenvolvimento web com projetos reais, document
 - Trabalho com HTML5 semântico, CSS (Flexbox) e JavaScript (Fetch API)
 - Uso Git e GitHub no dia a dia, com commits organizados e projetos publicados via GitHub Pages
 - Estou aprendendo Python para criar back-ends (Flask/FastAPI) e trabalhar com bancos de dados
-- Procuro uma oportunidade de **estágio ou vaga júnior em desenvolvimento** `<!-- ajuste a função-alvo -->`
+- Procuro uma oportunidade de **estágio ou vaga júnior em desenvolvimento full stack** 
 
 ## Projetos em destaque
 
